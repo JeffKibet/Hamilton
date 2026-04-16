@@ -3,8 +3,14 @@ h1
 h3
 {color:cornflowerblue;}
 #heading{
-    font-family: cursive;
-    color: green;
-    font-size: 36px;
     text-align: center;
+    font-family:'Times New Roman', Times, serif;
+    font-size: 36px;
+    }
+.listing{ 
+    font-family: cursive;
+    font-size: 16px;
+    text-align: left;
+    font-weight: lighter;
+    line-height: normal;
 }
