@@ -2,3 +2,9 @@ h1
 {color:green;}
 h3
 {color:cornflowerblue;}
+#heading{
+    font-family: cursive;
+    color: green;
+    font-size: 36px;
+    text-align: center;
+}
